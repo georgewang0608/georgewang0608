@@ -7,6 +7,8 @@
 </a>
 <p>Hi there, this is George Wang👋. Welcome to my Github homepage! I just graduated from University of Washington Seattle in August with a double degree in CS and Math. Currently, i am looking for SDE full time position.</p>
 <br>
+
+
 <div>
 <h1>What i know:sunglasses:</h1>
 <p>I’m pretty handy with a bunch of popular programming languages like Java, Python, and C/C++, to name a few. I’ve had several internships, reaserch experiences and got my hands dirty with both frontend and backend development. With these experiences, I got some hands-on knowledge of frameworks like React and the Django framework. And most importantly, I’m always game for learning new programming languages and picking up new skills along the way! </p>
@@ -48,16 +50,20 @@
 <details>
 <summary>:zap:My top languages</summary>
 <a href="https://github.com/georgewang0608">
-<img align="left" height="250" src="https://github-readme-stats-6hw70xa04-georgewang0608s-projects.vercel.app/api/top-langs/?username=georgewang0608&layout=donut&hide=jupyter%20notebook,HTML,shell,assembly&size_weight=0.5&count_weight=0.5">
+<img align="center" height="250" src="https://github-readme-stats-6hw70xa04-georgewang0608s-projects.vercel.app/api/top-langs/?username=georgewang0608&layout=donut&hide=jupyter%20notebook,HTML,shell,assembly&size_weight=0.5&count_weight=0.5">
 </a>
 </details>
 </div>
-
 <br>
+
 <div>
-<h1> What i like😄</h1>
-  <p1>Hi xxxxx</p1>
+<h1 align="left"> What i like😄</h1>
+  <p>I am a huge gamer, especially in real-time strategy (RTS) games. StarCraft 2 stands out as a favorite, with its intricate strategies and adrenaline-pumping, fast-paced gameplay that I just can't seem to get enough of.
+ If I have more leisure time, I would love getting creative by whipping up small applications. It's not just coding—it's a fulfilling adventure where I can learn and try out new technologies, boost my coding skills, and turn my ideas into digital realities.
+Oh, and LeetCode? That's my go-to for a brain workout. I enjoy tackling their questions, honing my problem-solving skills, and getting a deeper grasp of algorithms and data structures. It's a satisfying challenge that keeps me on my coding toes!</p>
 </div>
+
+<img width="600" src="https://media.tenor.com/z0HMyzzl0pwAAAAd/starcraft-hell-its-about-time.gif">
 
 <!--
 **georgewang0608/georgewang0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
