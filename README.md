@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there This is George Wang👋
+<p>A recent graduate from UW with a dual degree in CS and Math</p>
+
+[![George's GitHub stats-Dark](https://github-readme-stats-4ebso7vad-georgewang0608s-projects.vercel.app/api?username=georgewang0608&show_icons=true&hide=stars&theme=dark&count_private=true#gh-dark-mode-only)](https://github.com/georgewang0608#gh-dark-mode-only)
+[![George's GitHub stats-Light](https://github-readme-stats-4ebso7vad-georgewang0608s-projects.vercel.app/api?username=georgewang0608&show_icons=true&hide=stars&theme=radical&count_private=false#gh-light-mode-only)](https://github.com/georgewang0608#gh-light-mode-only)
 
 <!--
 **georgewang0608/georgewang0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
