@@ -1,10 +1,10 @@
 ### Hi there This is George Wang👋
-<p>A recent graduate from UW with a dual degree in CS and Math</p>
+<p>I just graduated from University of Washington Seattle in August with a double degree in CS and Math</p>
 
 [![George's GitHub stats-Dark](https://github-readme-stats-6hw70xa04-georgewang0608s-projects.vercel.app/api?username=georgewang0608&show_icons=true&hide=stars,contribs&theme=dark&count_private=true#gh-dark-mode-only)](https://github.com/georgewang0608#gh-dark-mode-only)
 [![George's GitHub stats-Light](https://github-readme-stats-6hw70xa04-georgewang0608s-projects.vercel.app/api?username=georgewang0608&show_icons=true&hide=stars,contribs&theme=radical&count_private=true#gh-light-mode-only)](https://github.com/georgewang0608#gh-light-mode-only)
 
-
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgewang0608&layout=donut&hide=jupyter%20notebook,HTML,shell,assembly)](https://github.com/georgewang0608)</a>
 
 
 <!--
