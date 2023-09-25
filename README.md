@@ -60,7 +60,7 @@
 <h1 align="left"> What i like😄</h1>
   <p>I am a huge gamer, especially in real-time strategy (RTS) games. StarCraft 2 stands out as a favorite, with its intricate strategies and adrenaline-pumping, fast-paced gameplay that I just can't seem to get enough of.
  If I have more leisure time, I would love getting creative by whipping up small applications. It's not just coding—it's a fulfilling adventure where I can learn and try out new technologies, boost my coding skills, and turn my ideas into digital realities.
-Oh, and LeetCode? That's my go-to for a brain workout. I enjoy tackling their questions, honing my problem-solving skills, and getting a deeper grasp of algorithms and data structures. It's a satisfying challenge that keeps me on my coding toes! And you know what comes best with leetcode, that is music, check out what im listening to.</p>
+Oh, and LeetCode? That's my go-to for a brain workout. I enjoy tackling their questions, honing my problem-solving skills, and getting a deeper grasp of algorithms and data structures. It's a satisfying challenge that keeps me on my coding toes!</p>
 
 <h3>Spotify Playing:headphones:<h3>
 <a href="https://open.spotify.com/user/pgqi8y8oh0w62lz0z29wa5dxt">
