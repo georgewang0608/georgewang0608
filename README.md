@@ -60,29 +60,23 @@
 <h1 align="left"> What i like😄</h1>
   <p>I am a huge gamer, especially in real-time strategy (RTS) games. StarCraft 2 stands out as a favorite, with its intricate strategies and adrenaline-pumping, fast-paced gameplay that I just can't seem to get enough of.
  If I have more leisure time, I would love getting creative by whipping up small applications. It's not just coding—it's a fulfilling adventure where I can learn and try out new technologies, boost my coding skills, and turn my ideas into digital realities.
-Oh, and LeetCode? That's my go-to for a brain workout. I enjoy tackling their questions, honing my problem-solving skills, and getting a deeper grasp of algorithms and data structures. It's a satisfying challenge that keeps me on my coding toes!</p>
+Oh, and LeetCode? That's my go-to for a brain workout. I enjoy tackling their questions, honing my problem-solving skills, and getting a deeper grasp of algorithms and data structures. It's a satisfying challenge that keeps me on my coding toes! And you know what comes best with leetcode, that is music, check out what im listening to.</p>
+
+<h3>Spotify Playing:headphones:<h3>
+<a href="https://open.spotify.com/user/pgqi8y8oh0w62lz0z29wa5dxt">
+<img align="center" width="455"  src="https://novatorem-gamma-ten.vercel.app/api/spotify">
+</a>
 </div>
 
+
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/george-wang-80b553200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgewang" height="30" width="40" /></a>
-<a href="https://discordid.netlify.app/?id=468926809011126272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="georgewang" height="40" width="50" /></a>
-<a href="mailto:yunqiw68@cs.washington.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="georgewang" height="30" width="35" /></a>
-<a href="https://github.com/georgewang0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="georgewang" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/george-wang-80b553200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgewang" height="35" width="35" /></a>
+<a href="https://discordid.netlify.app/?id=468926809011126272" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="georgewang" height="35" width="35" /></a>
+<a href="mailto:yunqiw68@cs.washington.edu" target="blank"><img align="center" src="./assets/gmail.png" alt="georgewang" height="30" width="35"/></a>
+<a href="https://github.com/georgewang0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="georgewang" height="35" width="35" /></a>
+<a href="https://github.com/georgewang0608" target="blank"><img align="center" src="./assets/steam.png" alt="georgewang" height="36" width="35" /></a>
 </p>
-<img width="450" src="https://media.tenor.com/z0HMyzzl0pwAAAAd/starcraft-hell-its-about-time.gif">
+<img width="450" src="./assets/starcraft-hell-its-about-time.gif">
 
-<!--
-**georgewang0608/georgewang0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...  
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
