@@ -66,12 +66,12 @@ Oh, and LeetCode? That's my go-to for a brain workout. I enjoy tackling their qu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/george-wang-80b553200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgewang" height="30" width="40" /></a>
-<a href="https://discord.gg/7ADY9WCB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="georgewang" height="40" width="50" /></a>
+<a href="discord://-/users/7ADY9WCB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="georgewang" height="40" width="50" /></a>
 <a href="mailto:yunqiw68@cs.washington.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="georgewang" height="30" width="35" /></a>
 <a href="https://github.com/georgewang0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt=georgewang" height="30" width="40" /></a>
 </p>
 <img width="450" src="https://media.tenor.com/z0HMyzzl0pwAAAAd/starcraft-hell-its-about-time.gif">
-discord://-/users/7ADY9WCB
+
 <!--
 **georgewang0608/georgewang0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
